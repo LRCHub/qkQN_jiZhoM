@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "冨山と山本",
+  "base_artist": "Jinmenusagi",
+  "createdAt": "2026-01-04T02:02:43.817960Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "冨山と山本 (feat. ACE COOL)",
+      "artist": "Jinmenusagi",
+      "has_synced": false,
+      "path": "select/pl_01_冨山と山本_(feat._ACE_COOL)_Jinmenusagi.txt"
+    }
+  ]
+}
